@@ -1,4 +1,4 @@
-package com.example.plugins
+package com.rudi.plugins
 
 import kotlinx.coroutines.Dispatchers
 import kotlinx.serialization.Serializable

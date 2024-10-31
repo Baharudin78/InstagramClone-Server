@@ -1,6 +1,6 @@
-package com.example
+package com.rudi
 
-import com.example.plugins.*
+import com.rudi.plugins.*
 import io.ktor.server.application.*
 import io.ktor.server.engine.*
 import io.ktor.server.netty.*
